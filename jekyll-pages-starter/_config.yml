@@ -1,0 +1,16 @@
+title: 我的日志
+author: Your Name
+description: 每天一篇，记录学习与生活。
+theme: minima
+
+url: "https://cyborgtimesplus401.github.io"
+baseurl: ""
+
+# 构建设置
+markdown: kramdown
+timezone: America/New_York
+show_excerpts: true
+
+# 顶部导航
+header_pages:
+  - about.md
