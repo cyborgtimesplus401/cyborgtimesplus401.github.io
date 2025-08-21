@@ -8,7 +8,7 @@ baseurl: ""
 
 # 构建设置
 markdown: kramdown
-timezone: China/Beijing
+timezone: America/New_York
 show_excerpts: true
 
 # 顶部导航
